@@ -1,0 +1,207 @@
+oracle-free
+
+   [1mJOKE_ID[m [1mCATEGORY[m    [1mJOKE[m                                                                                                                    [1mRATING[m 
+__________ ___________ ____________________________________________________________________________________________________________________ _________ 
+         1 DBA         A SQL query walks into a bar, approaches two tables and asks: 'Can I join you?'                                              8 
+         2 DBA         There are 10 kinds of DBAs: those who understand NULL and those who think it equals NULL.                                    7 
+         3 DBA         A DBA's last words: "It's just a quick UPDATE without a WHERE."                                                              9 
+         4 DBA         Why was the index jealous? The table kept getting all the attention.                                                         4 
+         5 DBA         Rollback is just Ctrl+Z for people who read the docs.                                                                        6 
+         6 DBA         I would tell you a UDP joke, but you might not get it. I would tell you a TCP joke, but I'd have to commit first.            7 
+         7 DBA         A DBA says "it works on my instance" and the tablespace fills up.                                                            7 
+         8 Linux       sudo make me a sandwich.                                                                                                     8 
+         9 Linux       There is no place like 127.0.0.1.                                                                                            7 
+        10 Linux       rm -rf /: the fastest way to learn about backups.                                                                            9 
+        11 Linux       Vim is easy: just type :q! and walk away.                                                                                    9 
+        12 Linux       chmod 777 is not a fix, it is a confession.                                                                                  8 
+        13 Linux       I use Arch, by the way.                                                                                                      8 
+        14 Linux       A kernel panic is just your computer telling you it needs a moment.                                                          6 
+
+   [1mJOKE_ID[m [1mCATEGORY[m     [1mJOKE[m                                                                                                                [1mRATING[m 
+__________ ____________ ________________________________________________________________________________________________________________ _________ 
+        15 Linux        Linux is only free if your time has no value.                                                                            6 
+        16 Linux        sudo !! is the polite way of saying "I told you so" to your shell.                                                       7 
+        17 Math         Why was the equal sign so humble? He knew he wasn't less than or greater than anyone else.                               7 
+        18 Math         Why did the student bring a ladder to math class? To reach a higher power.                                               5 
+        19 Math         Parallel lines have so much in common. It's a shame they'll never meet.                                                  8 
+        20 Math         Why is 6 afraid of 7? Because 7 8 9.                                                                                     6 
+        21 Math         What did the zero say to the eight? Nice belt.                                                                           7 
+        22 Math         Never argue with a circle. It has no point.                                                                              6 
+        23 Math         I told a joke about infinity once. It never ended.                                                                       7 
+        24 Math         Why do mathematicians confuse Halloween and Christmas? Because Oct 31 = Dec 25.                                          9 
+        25 Chemistry    Helium walks into a bar. The bartender says: "We don't serve noble gases here." Helium doesn't react.                    8 
+        26 Chemistry    Why can't you trust atoms? They make up everything.                                                                      7 
+        27 Chemistry    What do you do with a sick chemist? If you can't helium and you can't curium, you'll probably have to barium.            6 
+        28 Chemistry    Old chemists never die, they just stop reacting.                                                                         5 
+
+   [1mJOKE_ID[m [1mCATEGORY[m     [1mJOKE[m                                                                                                                                     [1mRATING[m 
+__________ ____________ _____________________________________________________________________________________________________________________________________ _________ 
+        29 Chemistry    Why do chemists like nitrates so much? They're cheaper than day rates.                                                                        4 
+        30 Chemistry    I'd tell you a chemistry joke, but I know I wouldn't get a reaction.                                                                          6 
+        31 Chemistry    Oxygen and magnesium got together. OMg.                                                                                                       7 
+        32 Chemistry    What is the name of a chemist's favorite dance? The mole-cule shuffle.                                                                        3 
+        33 Physics      Schrodinger's cat walks into a bar. And doesn't.                                                                                              9 
+        34 Physics      A neutron walks into a bar and asks how much for a drink. The bartender says: "For you, no charge."                                           8 
+        35 Physics      Heisenberg gets pulled over. The cop says: "Do you know how fast you were going?" Heisenberg: "No, but I know exactly where I am."            9 
+        36 Physics      Why can't you trust an atom? Because they make up everything. Also, they are mostly empty space.                                              5 
+        37 Physics      Light travels faster than sound. That is why some people appear bright until you hear them speak.                                             7 
+        38 Physics      What did one quark say to the other? "You're up, I'm down."                                                                                   6 
+        39 Physics      Time flies like an arrow. Fruit flies like a banana. Entropy just keeps increasing.                                                           6 
+        40 Physics      There was a power outage at the physics lab. Resistance was futile.                                                                           7 
+        41 DBA          A SQL query walks into a bar, approaches two tables and asks: 'Can I join you?'                                                               8 
+        42 DBA          There are 10 kinds of DBAs: those who understand NULL and those who think it equals NULL.                                                     7 
+
+   [1mJOKE_ID[m [1mCATEGORY[m    [1mJOKE[m                                                                                                                    [1mRATING[m 
+__________ ___________ ____________________________________________________________________________________________________________________ _________ 
+        43 DBA         A DBA's last words: "It's just a quick UPDATE without a WHERE."                                                              9 
+        44 DBA         Why was the index jealous? The table kept getting all the attention.                                                         4 
+        45 DBA         Rollback is just Ctrl+Z for people who read the docs.                                                                        6 
+        46 DBA         I would tell you a UDP joke, but you might not get it. I would tell you a TCP joke, but I'd have to commit first.            7 
+        47 DBA         A DBA says "it works on my instance" and the tablespace fills up.                                                            7 
+        48 Linux       sudo make me a sandwich.                                                                                                     8 
+        49 Linux       There is no place like 127.0.0.1.                                                                                            7 
+        50 Linux       rm -rf /: the fastest way to learn about backups.                                                                            9 
+        51 Linux       Vim is easy: just type :q! and walk away.                                                                                    9 
+        52 Linux       chmod 777 is not a fix, it is a confession.                                                                                  8 
+        53 Linux       I use Arch, by the way.                                                                                                      8 
+        54 Linux       A kernel panic is just your computer telling you it needs a moment.                                                          6 
+        55 Linux       Linux is only free if your time has no value.                                                                                6 
+        56 Linux       sudo !! is the polite way of saying "I told you so" to your shell.                                                           7 
+
+   [1mJOKE_ID[m [1mCATEGORY[m     [1mJOKE[m                                                                                                                [1mRATING[m 
+__________ ____________ ________________________________________________________________________________________________________________ _________ 
+        57 Math         Why was the equal sign so humble? He knew he wasn't less than or greater than anyone else.                               7 
+        58 Math         Why did the student bring a ladder to math class? To reach a higher power.                                               5 
+        59 Math         Parallel lines have so much in common. It's a shame they'll never meet.                                                  8 
+        60 Math         Why is 6 afraid of 7? Because 7 8 9.                                                                                     6 
+        61 Math         What did the zero say to the eight? Nice belt.                                                                           7 
+        62 Math         Never argue with a circle. It has no point.                                                                              6 
+        63 Math         I told a joke about infinity once. It never ended.                                                                       7 
+        64 Math         Why do mathematicians confuse Halloween and Christmas? Because Oct 31 = Dec 25.                                          9 
+        65 Chemistry    Helium walks into a bar. The bartender says: "We don't serve noble gases here." Helium doesn't react.                    8 
+        66 Chemistry    Why can't you trust atoms? They make up everything.                                                                      7 
+        67 Chemistry    What do you do with a sick chemist? If you can't helium and you can't curium, you'll probably have to barium.            6 
+        68 Chemistry    Old chemists never die, they just stop reacting.                                                                         5 
+        69 Chemistry    Why do chemists like nitrates so much? They're cheaper than day rates.                                                   4 
+        70 Chemistry    I'd tell you a chemistry joke, but I know I wouldn't get a reaction.                                                     6 
+
+   [1mJOKE_ID[m [1mCATEGORY[m     [1mJOKE[m                                                                                                                                     [1mRATING[m 
+__________ ____________ _____________________________________________________________________________________________________________________________________ _________ 
+        71 Chemistry    Oxygen and magnesium got together. OMg.                                                                                                       7 
+        72 Chemistry    What is the name of a chemist's favorite dance? The mole-cule shuffle.                                                                        3 
+        73 Physics      Schrodinger's cat walks into a bar. And doesn't.                                                                                              9 
+        74 Physics      A neutron walks into a bar and asks how much for a drink. The bartender says: "For you, no charge."                                           8 
+        75 Physics      Heisenberg gets pulled over. The cop says: "Do you know how fast you were going?" Heisenberg: "No, but I know exactly where I am."            9 
+        76 Physics      Why can't you trust an atom? Because they make up everything. Also, they are mostly empty space.                                              5 
+        77 Physics      Light travels faster than sound. That is why some people appear bright until you hear them speak.                                             7 
+        78 Physics      What did one quark say to the other? "You're up, I'm down."                                                                                   6 
+        79 Physics      Time flies like an arrow. Fruit flies like a banana. Entropy just keeps increasing.                                                           6 
+        80 Physics      There was a power outage at the physics lab. Resistance was futile.                                                                           7 
+        81 DBA          A SQL query walks into a bar, approaches two tables and asks: 'Can I join you?'                                                               8 
+        82 DBA          There are 10 kinds of DBAs: those who understand NULL and those who think it equals NULL.                                                     7 
+        83 DBA          A DBA's last words: "It's just a quick UPDATE without a WHERE."                                                                               9 
+        84 DBA          Why was the index jealous? The table kept getting all the attention.                                                                          4 
+
+   [1mJOKE_ID[m [1mCATEGORY[m    [1mJOKE[m                                                                                                                    [1mRATING[m 
+__________ ___________ ____________________________________________________________________________________________________________________ _________ 
+        85 DBA         Rollback is just Ctrl+Z for people who read the docs.                                                                        6 
+        86 DBA         I would tell you a UDP joke, but you might not get it. I would tell you a TCP joke, but I'd have to commit first.            7 
+        87 DBA         A DBA says "it works on my instance" and the tablespace fills up.                                                            7 
+        88 Linux       sudo make me a sandwich.                                                                                                     8 
+        89 Linux       There is no place like 127.0.0.1.                                                                                            7 
+        90 Linux       rm -rf /: the fastest way to learn about backups.                                                                            9 
+        91 Linux       Vim is easy: just type :q! and walk away.                                                                                    9 
+        92 Linux       chmod 777 is not a fix, it is a confession.                                                                                  8 
+        93 Linux       I use Arch, by the way.                                                                                                      8 
+        94 Linux       A kernel panic is just your computer telling you it needs a moment.                                                          6 
+        95 Linux       Linux is only free if your time has no value.                                                                                6 
+        96 Linux       sudo !! is the polite way of saying "I told you so" to your shell.                                                           7 
+        97 Math        Why was the equal sign so humble? He knew he wasn't less than or greater than anyone else.                                   7 
+        98 Math        Why did the student bring a ladder to math class? To reach a higher power.                                                   5 
+
+   [1mJOKE_ID[m [1mCATEGORY[m     [1mJOKE[m                                                                                                                [1mRATING[m 
+__________ ____________ ________________________________________________________________________________________________________________ _________ 
+        99 Math         Parallel lines have so much in common. It's a shame they'll never meet.                                                  8 
+       100 Math         Why is 6 afraid of 7? Because 7 8 9.                                                                                     6 
+       101 Math         What did the zero say to the eight? Nice belt.                                                                           7 
+       102 Math         Never argue with a circle. It has no point.                                                                              6 
+       103 Math         I told a joke about infinity once. It never ended.                                                                       7 
+       104 Math         Why do mathematicians confuse Halloween and Christmas? Because Oct 31 = Dec 25.                                          9 
+       105 Chemistry    Helium walks into a bar. The bartender says: "We don't serve noble gases here." Helium doesn't react.                    8 
+       106 Chemistry    Why can't you trust atoms? They make up everything.                                                                      7 
+       107 Chemistry    What do you do with a sick chemist? If you can't helium and you can't curium, you'll probably have to barium.            6 
+       108 Chemistry    Old chemists never die, they just stop reacting.                                                                         5 
+       109 Chemistry    Why do chemists like nitrates so much? They're cheaper than day rates.                                                   4 
+       110 Chemistry    I'd tell you a chemistry joke, but I know I wouldn't get a reaction.                                                     6 
+       111 Chemistry    Oxygen and magnesium got together. OMg.                                                                                  7 
+       112 Chemistry    What is the name of a chemist's favorite dance? The mole-cule shuffle.                                                   3 
+
+   [1mJOKE_ID[m [1mCATEGORY[m    [1mJOKE[m                                                                                                                                     [1mRATING[m 
+__________ ___________ _____________________________________________________________________________________________________________________________________ _________ 
+       113 Physics     Schrodinger's cat walks into a bar. And doesn't.                                                                                              9 
+       114 Physics     A neutron walks into a bar and asks how much for a drink. The bartender says: "For you, no charge."                                           8 
+       115 Physics     Heisenberg gets pulled over. The cop says: "Do you know how fast you were going?" Heisenberg: "No, but I know exactly where I am."            9 
+       116 Physics     Why can't you trust an atom? Because they make up everything. Also, they are mostly empty space.                                              5 
+       117 Physics     Light travels faster than sound. That is why some people appear bright until you hear them speak.                                             7 
+       118 Physics     What did one quark say to the other? "You're up, I'm down."                                                                                   6 
+       119 Physics     Time flies like an arrow. Fruit flies like a banana. Entropy just keeps increasing.                                                           6 
+       120 Physics     There was a power outage at the physics lab. Resistance was futile.                                                                           7 
+       221 DBA         A SQL query walks into a bar, approaches two tables and asks: 'Can I join you?'                                                               8 
+       222 DBA         There are 10 kinds of DBAs: those who understand NULL and those who think it equals NULL.                                                     7 
+       223 DBA         A DBA's last words: "It's just a quick UPDATE without a WHERE."                                                                               9 
+       224 DBA         Why was the index jealous? The table kept getting all the attention.                                                                          4 
+       225 DBA         Rollback is just Ctrl+Z for people who read the docs.                                                                                         6 
+       226 DBA         I would tell you a UDP joke, but you might not get it. I would tell you a TCP joke, but I'd have to commit first.                             7 
+
+   [1mJOKE_ID[m [1mCATEGORY[m    [1mJOKE[m                                                                                             [1mRATING[m 
+__________ ___________ _____________________________________________________________________________________________ _________ 
+       227 DBA         A DBA says "it works on my instance" and the tablespace fills up.                                     7 
+       228 Linux       sudo make me a sandwich.                                                                              8 
+       229 Linux       There is no place like 127.0.0.1.                                                                     7 
+       230 Linux       rm -rf /: the fastest way to learn about backups.                                                     9 
+       231 Linux       Vim is easy: just type :q! and walk away.                                                             9 
+       232 Linux       chmod 777 is not a fix, it is a confession.                                                           8 
+       233 Linux       I use Arch, by the way.                                                                               8 
+       234 Linux       A kernel panic is just your computer telling you it needs a moment.                                   6 
+       235 Linux       Linux is only free if your time has no value.                                                         6 
+       236 Linux       sudo !! is the polite way of saying "I told you so" to your shell.                                    7 
+       237 Math        Why was the equal sign so humble? He knew he wasn't less than or greater than anyone else.            7 
+       238 Math        Why did the student bring a ladder to math class? To reach a higher power.                            5 
+       239 Math        Parallel lines have so much in common. It's a shame they'll never meet.                               8 
+       240 Math        Why is 6 afraid of 7? Because 7 8 9.                                                                  6 
+
+   [1mJOKE_ID[m [1mCATEGORY[m     [1mJOKE[m                                                                                                                [1mRATING[m 
+__________ ____________ ________________________________________________________________________________________________________________ _________ 
+       241 Math         What did the zero say to the eight? Nice belt.                                                                           7 
+       242 Math         Never argue with a circle. It has no point.                                                                              6 
+       243 Math         I told a joke about infinity once. It never ended.                                                                       7 
+       244 Math         Why do mathematicians confuse Halloween and Christmas? Because Oct 31 = Dec 25.                                          9 
+       245 Chemistry    Helium walks into a bar. The bartender says: "We don't serve noble gases here." Helium doesn't react.                    8 
+       246 Chemistry    Why can't you trust atoms? They make up everything.                                                                      7 
+       247 Chemistry    What do you do with a sick chemist? If you can't helium and you can't curium, you'll probably have to barium.            6 
+       248 Chemistry    Old chemists never die, they just stop reacting.                                                                         5 
+       249 Chemistry    Why do chemists like nitrates so much? They're cheaper than day rates.                                                   4 
+       250 Chemistry    I'd tell you a chemistry joke, but I know I wouldn't get a reaction.                                                     6 
+       251 Chemistry    Oxygen and magnesium got together. OMg.                                                                                  7 
+       252 Chemistry    What is the name of a chemist's favorite dance? The mole-cule shuffle.                                                   3 
+       253 Physics      Schrodinger's cat walks into a bar. And doesn't.                                                                         9 
+       254 Physics      A neutron walks into a bar and asks how much for a drink. The bartender says: "For you, no charge."                      8 
+
+   [1mJOKE_ID[m [1mCATEGORY[m    [1mJOKE[m                                                                                                                                     [1mRATING[m 
+__________ ___________ _____________________________________________________________________________________________________________________________________ _________ 
+       255 Physics     Heisenberg gets pulled over. The cop says: "Do you know how fast you were going?" Heisenberg: "No, but I know exactly where I am."            9 
+       256 Physics     Why can't you trust an atom? Because they make up everything. Also, they are mostly empty space.                                              5 
+       257 Physics     Light travels faster than sound. That is why some people appear bright until you hear them speak.                                             7 
+       258 Physics     What did one quark say to the other? "You're up, I'm down."                                                                                   6 
+       259 Physics     Time flies like an arrow. Fruit flies like a banana. Entropy just keeps increasing.                                                           6 
+       260 Physics     There was a power outage at the physics lab. Resistance was futile.                                                                           7 
+
+160 rows selected. 
+
+SQL> 
+Error starting at line : 1 in command -
+ex:x
+Error report -
+Unknown Command
+
+SQL> 
