@@ -1,0 +1,19 @@
+SET PAGESIZE 100
+
+DESC system.amazon;
+
+SELECT AVG(profit) FROM amazon;
+
+SELECT 
+	product_name,
+	category,
+	profit,
+	CASE
+		WHEN profit < AVG(profit) OVER () THEN 'Low profit'
+		WHEN profit < MAX(profit) OVER () - 50 THEN 'High profit'
+		ELSE 'Super high profit'
+	END AS profit_level
+FROM amazon
+ORDER BY profit DESC;
+
+EXIT

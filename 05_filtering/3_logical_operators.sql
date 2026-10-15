@@ -17,14 +17,16 @@ WHERE quantity > 10 AND category NOT IN ('Binders', 'Storage', 'Phones')
 ORDER BY category;
 
 
+SELECT
+	category,
+	product_name,
+	quantity
+FROM amazon
+WHERE quantity < 2 OR quantity > 12
+ORDER BY quantity;
 
 
 
 
 
 
-
-
-
-
-EXIT
