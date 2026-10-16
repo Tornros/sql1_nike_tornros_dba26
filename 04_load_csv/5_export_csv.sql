@@ -1,8 +1,9 @@
 SET SQLFORMAT csv
+SET FEEDBACK OFF
 
 SELECT * 
 FROM salaries_sf
-ORDER BY basepay DESC
+ORDER BY basepay DESC NULLS LAST
 -- Fetch 0.2% of top rows
 FETCH FIRST .2 PERCENT ROWS ONLY;
 
