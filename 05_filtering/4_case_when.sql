@@ -14,6 +14,6 @@ SELECT
 		ELSE 'Super high profit'
 	END AS profit_level
 FROM amazon
-ORDER BY profit DESC;
+FETCH FIRST 1 PERCENT ROWS ONLY;
 
 EXIT

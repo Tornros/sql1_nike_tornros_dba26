@@ -26,7 +26,14 @@ WHERE quantity < 2 OR quantity > 12
 ORDER BY quantity;
 
 
+-- IN Operator
 
+SELECT category, product_name, sales
+FROM amazon
+WHERE category IN ('Tables', 'Chairs', 'Binders')
+ORDER BY category
+;
 
+EXIT
 
 
