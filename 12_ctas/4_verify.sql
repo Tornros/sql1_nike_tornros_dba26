@@ -1,9 +1,11 @@
+-- För att verifiera tabellerna och att all info är med
 SELECT * FROM customers;
 SELECT * FROM products;
 SELECT * FROM orders;
 SELECT * FROM orderlines;
 
 -- Recreate the flat table
+-- Slår ihop allt
 SELECT
 	o.order_id,
 	o.order_date,

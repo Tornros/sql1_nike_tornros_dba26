@@ -1,3 +1,5 @@
+-- Lägger i efterhand till PK och FK i redan existerande tabeller. 
+-- CTAS tar inte med constraints, därav att vi gör detta ^ nu.
 ALTER TABLE customers ADD CONSTRAINTS customers_pk PRIMARY KEY (customer_id);
 ALTER TABLE products    ADD CONSTRAINT products_pk    PRIMARY KEY (product_id);
 ALTER TABLE orders      ADD CONSTRAINT orders_pk      PRIMARY KEY (order_id);

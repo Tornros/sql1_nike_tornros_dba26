@@ -1,4 +1,4 @@
-
+-- Skapar våra tabeller:
 CREATE TABLE orders_flat (
   order_id       NUMBER,
   order_date     DATE,
@@ -8,7 +8,7 @@ CREATE TABLE orders_flat (
   product_price  NUMBER(8,2),
   qty            NUMBER
 );
-
+-- Stoppar in datan:
 INSERT INTO orders_flat VALUES
   (1, DATE '2026-10-01', 'Anna Lindqvist', 'Göteborg',  'Tangentbord', 500,  2),
   (1, DATE '2026-10-01', 'Anna Lindqvist', 'Göteborg',  'Mus',         200,  1),
